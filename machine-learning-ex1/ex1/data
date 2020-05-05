@@ -1,0 +1,9 @@
+# Created by Octave 4.0.2, Wed Aug 24 18:48:25 2016 W. Europe Daylight Time <unknown@eis-luigi>
+# name: A
+# type: matrix
+# rows: 2
+# columns: 2
+ 1 1
+ 1 -1
+
+
